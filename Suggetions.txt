@@ -1,0 +1,29 @@
+*CNF defintion example and types of CNF or norm forms.
+*Steps of CNF and First order logic
+*Proves using Propositional Resolution and CNF
+*Steps for Resolution with exaple
+*Define Uncertainty
+*Define Probability
+*Source of Uncertainty
+*Unconditional vs. Conditional Probability
+*Probability related math
+*Defination of Variable and Random Variable with Exmaple
+*Defination of Independence and conditional independence
+*Independence vs conditional independence
+*Define Bayes’ Rule
+*What are the application of Bayes’ Rule
+*Define Bayesian Networks and related math
+*Defrence between ANN and BNN with figure
+*Supervised learning vs Unsupervised learning
+
+*AI areas 
+
+*Define Fuzzy logic 
+*Fuzzy logic vs Crisp Logic
+*Fuzzification and Defuzzification
+*Fuzzy system with figure 
+*Example of a fuzzy system 
+*Types of fuzzifiers
+*membership functions
+*Fuzzy Control Systems definations 
+
