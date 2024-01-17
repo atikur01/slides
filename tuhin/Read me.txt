@@ -1,0 +1,5 @@
+open Mysql on XAMP and go to Admin.
+
+create a database named atiksblog 
+
+import atiksblog.sql
