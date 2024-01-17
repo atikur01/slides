@@ -1,6 +1,0 @@
-1. john is a boy.
-2. may is a girl.
-3. sam is the father of john.
-4. jack is the father of sam.
-
-Q. jack is the grandfather of john. ->
